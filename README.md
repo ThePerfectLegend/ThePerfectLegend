@@ -1,4 +1,4 @@
-### 👋 Hi! I'm Nizami
+### 👋 Hi! I'm Nizami.
 
 <!--
 **ThePerfectLegend/ThePerfectLegend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

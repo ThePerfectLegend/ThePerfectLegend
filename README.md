@@ -4,8 +4,8 @@
   <a href="https://www.linkedin.com/in/nizamitagiyev/">LinkedIn</a> •
   <a href="https://apps.apple.com/us/developer/nizami-tagiyev/id1580667722">App Store</a> •
   <a href="https://t.me/The_Perfect_Legend">Telegram</a>
+  <a href="https://www.instagram.com/hustla_la_vista/">Instagram</a>
 </p>
-
 
 
 <!--

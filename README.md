@@ -1,5 +1,4 @@
 <h3 align="center">👋 Hi! I'm Nizami.</h3>
-<h4 align="center">Self-taught iOS Developer  </h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nizamitagiyev/">LinkedIn</a> •

@@ -1,4 +1,6 @@
 <h3 align="center">👋 Hi! I'm Nizami.</h3>
+<h2 align="center">Self-taught iOS developer .</h2>
+
 
 
 <!--

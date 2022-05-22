@@ -1,5 +1,12 @@
 <h3 align="center">👋 Hi! I'm Nizami.</h3>
-<h4 align="center">Self-taught iOS developer .</h4>
+<h5 align="center">Self-taught iOS developer .</h5>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nizamitagiyev/">LinkedIn</a> •
+  <a href="https://stackoverflow.com/users/14737138/nizami">Stackoverflow</a> •
+  <a href="https://apps.apple.com/us/developer/nizami-tagiyev/id1580667722">App Store</a>
+  <a href="https://t.me/The_Perfect_Legend">Telegram</a>
+</p>
 
 
 

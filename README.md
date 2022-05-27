@@ -1,5 +1,5 @@
 <h3 align="center">👋 Hi! I'm Nizami</h3>
-<h4 align="center">Self-taught iOS Developer </h4>
+<h4 align="center">Self-Taught iOS Developer </h4>
 
 <p align="leading">After 6 years of career in fintech as an analyst and project manager, I decided to try myself in a new role. I designed and developed my first app from the scratch alone and published on App Store. In this process I found my passion in iOS development and want to expand my skills for creating world changing mobile application.</p>
 

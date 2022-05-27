@@ -36,6 +36,9 @@
 <a href="https://apps.apple.com/us/developer/nizami-tagiyev/id1580667722"><img alt="Custom badge" src="https://img.shields.io/badge/App%20Store-black?style=for-the-badge&logo=apple"></a>
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThePerfectLegend&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ThePerfectLegend/github-readme-stats)
+
+
 <!--
 **ThePerfectLegend/ThePerfectLegend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

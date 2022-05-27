@@ -14,18 +14,6 @@
 <img alt="Custom badge" src="https://img.shields.io/badge/CloudKit%20Console-black?style=for-the-badge&logo=apple">
 <img alt="Custom badge" src="https://img.shields.io/badge/jira-black?style=for-the-badge&logo=jira">
 <img alt="Custom badge" src="https://img.shields.io/badge/sql-black?style=for-the-badge&logo=sql">
-  
-<h5 align="leading">iOS Technologies & Frameworks</h5>
-<p align="leading">
-<img alt="Custom badge" src="https://img.shields.io/badge/Foundation-black?style=for-the-badge&logo=framework">
-<img alt="Custom badge" src="https://img.shields.io/badge/CoreData-black?style=for-the-badge&logo=framework">
-<img alt="Custom badge" src="https://img.shields.io/badge/Combine-black?style=for-the-badge&logo=framework">
-<img alt="Custom badge" src="https://img.shields.io/badge/URLSession-black?style=for-the-badge&logo=framework">
-<img alt="Custom badge" src="https://img.shields.io/badge/MapKit-black?style=for-the-badge&logo=framework">
-<img alt="Custom badge" src="https://img.shields.io/badge/CoreLocation-black?style=for-the-badge&logo=framework">
-<img alt="Custom badge" src="https://img.shields.io/badge/CloudKit-black?style=for-the-badge&logo=framework">
-<img alt="Custom badge" src="https://img.shields.io/badge/UserDefaults-black?style=for-the-badge&logo=framework">
-</p>
 </p>
 
 <h2 align="leading">Contacts & Links</h2>
@@ -53,4 +41,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<h5 align="leading">iOS Technologies & Frameworks</h5>
+<p align="leading">
+<img alt="Custom badge" src="https://img.shields.io/badge/Foundation-black?style=for-the-badge&logo=framework">
+<img alt="Custom badge" src="https://img.shields.io/badge/CoreData-black?style=for-the-badge&logo=framework">
+<img alt="Custom badge" src="https://img.shields.io/badge/Combine-black?style=for-the-badge&logo=framework">
+<img alt="Custom badge" src="https://img.shields.io/badge/URLSession-black?style=for-the-badge&logo=framework">
+<img alt="Custom badge" src="https://img.shields.io/badge/MapKit-black?style=for-the-badge&logo=framework">
+<img alt="Custom badge" src="https://img.shields.io/badge/CoreLocation-black?style=for-the-badge&logo=framework">
+<img alt="Custom badge" src="https://img.shields.io/badge/CloudKit-black?style=for-the-badge&logo=framework">
+<img alt="Custom badge" src="https://img.shields.io/badge/UserDefaults-black?style=for-the-badge&logo=framework">
+</p>
 -->

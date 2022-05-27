@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi! I'm Nizami.</h1>
-<h3 align="center">Self-taught iOS Developer </h3>
+<h3 align="center">👋 Hi! I'm Nizami.</h3>
+<h4 align="center">Self-taught iOS Developer </h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nizamitagiyev/">LinkedIn</a> •
@@ -8,6 +8,7 @@
   <a href="https://www.instagram.com/hustla_la_vista/">Instagram</a>
 </p>
 
+<p align="leading">After 6 years of career in fintech as an analyst and product manager, I decided to try myself in a new role. I designed and developed my first app from the scratch alone and published on App Store. In this process I found my passion in iOS development and want to expand my skills for creating world changing mobile application.</p>
 
 <!--
 **ThePerfectLegend/ThePerfectLegend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,4 +23,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->

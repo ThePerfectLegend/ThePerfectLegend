@@ -14,6 +14,7 @@
 <img alt="Custom badge" src="https://img.shields.io/badge/HIG-black?style=for-the-badge&logo=apple">
 <img alt="Custom badge" src="https://img.shields.io/badge/jira-black?style=for-the-badge&logo=jira">
 <img alt="Custom badge" src="https://img.shields.io/badge/sql-black?style=for-the-badge&logo=sql">
+  <img alt="Custom badge" src="https://img.shields.io/badge/tableau-black?style=for-the-badge&logo=tableau">
 <img alt="Custom badge" src="https://img.shields.io/badge/App%20Store%20Connect-black?style=for-the-badge&logo=apple">
 <img alt="Custom badge" src="https://img.shields.io/badge/CloudKit%20Console-black?style=for-the-badge&logo=apple">
 </p>

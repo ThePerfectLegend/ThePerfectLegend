@@ -10,10 +10,12 @@
 <img alt="Custom badge" src="https://img.shields.io/badge/xcode-black?style=for-the-badge&logo=xcode">
 <img alt="Custom badge" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git">
 <img alt="Custom badge" src="https://img.shields.io/badge/cocoapods-black?style=for-the-badge&logo=cocoapods">
-<img alt="Custom badge" src="https://img.shields.io/badge/App%20Store%20Connect-black?style=for-the-badge&logo=apple">
-<img alt="Custom badge" src="https://img.shields.io/badge/CloudKit%20Console-black?style=for-the-badge&logo=apple">
+<img alt="Custom badge" src="https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma">
+<img alt="Custom badge" src="https://img.shields.io/badge/HIG-black?style=for-the-badge&logo=apple">
 <img alt="Custom badge" src="https://img.shields.io/badge/jira-black?style=for-the-badge&logo=jira">
 <img alt="Custom badge" src="https://img.shields.io/badge/sql-black?style=for-the-badge&logo=sql">
+<img alt="Custom badge" src="https://img.shields.io/badge/App%20Store%20Connect-black?style=for-the-badge&logo=apple">
+<img alt="Custom badge" src="https://img.shields.io/badge/CloudKit%20Console-black?style=for-the-badge&logo=apple">
 </p>
 
 <h2 align="leading">Contacts & Links</h2>
@@ -24,7 +26,9 @@
 <a href="https://apps.apple.com/us/developer/nizami-tagiyev/id1580667722"><img alt="Custom badge" src="https://img.shields.io/badge/App%20Store-black?style=for-the-badge&logo=apple"></a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThePerfectLegend&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ThePerfectLegend/github-readme-stats)
+<h2 align="leading">Stats</h2>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThePerfectLegend&count_private=true&show_icons=true&theme=algolia&hide_title=true&include_all_commits=true)](https://github.com/ThePerfectLegend/github-readme-stats)
 
 
 <!--

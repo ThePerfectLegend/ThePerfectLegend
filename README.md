@@ -31,6 +31,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThePerfectLegend&count_private=true&show_icons=true&theme=algolia&hide_title=true&include_all_commits=true)](https://github.com/ThePerfectLegend/github-readme-stats)
 
 
+<p align="leading"> <img src="https://komarev.com/ghpvc/?username=ThePerfectLegend&style=for-the-badge&label=Profile%20views&=flat&color=blueviolet" /> </p>
+
 <!--
 **ThePerfectLegend/ThePerfectLegend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

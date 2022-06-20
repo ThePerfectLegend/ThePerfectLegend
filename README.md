@@ -23,14 +23,16 @@
 <a href="https://www.linkedin.com/in/nizamitagiyev/"><img alt="Custom badge" src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn&logoColor=blue"></a>
 <a href="https://t.me/The_Perfect_Legend"><img alt="Custom badge" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
 <a href="https://www.instagram.com/hustla_la_vista/"><img alt="Custom badge" src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram"></a>
-<a href="https://apps.apple.com/us/developer/nizami-tagiyev/id1580667722"><img alt="Custom badge" src="https://img.shields.io/badge/App%20Store-black?style=for-the-badge&logo=apple"></a>
+<a href="https://apps.apple.com/us/developer/nizami-tagiyev/id1580667722"><img alt="Custom badge" src="https://img.shields.io/badge/App%20Store-black?style=for-the-badge&logo=app-store"></a>
 </p>
 
 <h2 align="leading">Stats</h2>
 
-![](https://github-readme-codewars-stats.herokuapp.com/api/?username=The_Perfect_Legend&badge&colormode=dark_mode)
+<a href="https://stackoverflow.com/users/14737138/nizami"><img src="https://stackoverflow.com/users/flair/14737138.png?theme=dark" width="208" height="58" alt="profile for Nizami at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Nizami at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThePerfectLegend&count_private=true&show_icons=true&theme=algolia&hide_title=true&include_all_commits=true)](https://github.com/ThePerfectLegend/github-readme-stats)
+![CodeWars stats](https://github-readme-codewars-stats.herokuapp.com/api/?username=The_Perfect_Legend&badge&colormode=dark_mode)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThePerfectLegend&count_private=true&show_icons=true&theme=algolia&hide_title=true&include_all_commits=true)](https://github.com/ThePerfectLegend/github-readme-stats)
 
 <p align="leading"> <img src="https://komarev.com/ghpvc/?username=ThePerfectLegend&style=for-the-badge&label=Profile%20views&=flat&color=blueviolet" /> </p>
 

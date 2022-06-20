@@ -28,8 +28,9 @@
 
 <h2 align="leading">Stats</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThePerfectLegend&count_private=true&show_icons=true&theme=algolia&hide_title=true&include_all_commits=true)](https://github.com/ThePerfectLegend/github-readme-stats)
+![](https://github-readme-codewars-stats.herokuapp.com/api/?username=The_Perfect_Legend&badge&colormode=dark_mode)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThePerfectLegend&count_private=true&show_icons=true&theme=algolia&hide_title=true&include_all_commits=true)](https://github.com/ThePerfectLegend/github-readme-stats)
 
 <p align="leading"> <img src="https://komarev.com/ghpvc/?username=ThePerfectLegend&style=for-the-badge&label=Profile%20views&=flat&color=blueviolet" /> </p>
 

@@ -8,14 +8,13 @@
 <img alt="Custom badge" src="https://img.shields.io/badge/Swift-black?style=for-the-badge&logo=swift">
 <img alt="Custom badge" src="https://img.shields.io/badge/Swiftui-black?style=for-the-badge&logo=swift&logoColor=blue">
 <img alt="Custom badge" src="https://img.shields.io/badge/xcode-black?style=for-the-badge&logo=xcode">
+<img alt="Custom badge" src="https://img.shields.io/badge/App%20Store%20Connect-black?style=for-the-badge&logo=app-store">
 <img alt="Custom badge" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git">
-<img alt="Custom badge" src="https://img.shields.io/badge/cocoapods-black?style=for-the-badge&logo=cocoapods">
 <img alt="Custom badge" src="https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma">
 <img alt="Custom badge" src="https://img.shields.io/badge/HIG-black?style=for-the-badge&logo=apple">
 <img alt="Custom badge" src="https://img.shields.io/badge/jira-black?style=for-the-badge&logo=jira">
-<img alt="Custom badge" src="https://img.shields.io/badge/sql-black?style=for-the-badge&logo=sql">
-<img alt="Custom badge" src="https://img.shields.io/badge/App%20Store%20Connect-black?style=for-the-badge&logo=apple">
-<img alt="Custom badge" src="https://img.shields.io/badge/CloudKit%20Console-black?style=for-the-badge&logo=apple">
+<img alt="Custom badge" src="https://img.shields.io/badge/CloudKit%20Console-black?style=for-the-badge">
+<img alt="Custom badge" src="https://img.shields.io/badge/sql-black?style=for-the-badge&logo">
 </p>
 
 <h2 align="leading">Contacts & Links</h2>

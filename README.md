@@ -29,7 +29,7 @@
 
 <a href="https://stackoverflow.com/users/14737138/nizami"><img src="https://stackoverflow.com/users/flair/14737138.png?theme=dark" width="208" height="58" alt="profile for Nizami at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Nizami at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-![CodeWars stats](https://github-readme-codewars-stats.herokuapp.com/api/?username=The_Perfect_Legend&badge&colormode=dark_mode)
+![CodeWars stats](https://www.codewars.com/users/The_Perfect_Legend/badges/large)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThePerfectLegend&count_private=true&show_icons=true&theme=algolia&hide_title=true&include_all_commits=true)](https://github.com/ThePerfectLegend/github-readme-stats)
 

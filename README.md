@@ -21,8 +21,8 @@
 <p align="leading">
 <a href="https://www.linkedin.com/in/nizamitagiyev/"><img alt="Custom badge" src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn&logoColor=blue"></a>
 <a href="https://t.me/The_Perfect_Legend"><img alt="Custom badge" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
-<a href="https://www.instagram.com/hustla_la_vista/"><img alt="Custom badge" src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram"></a>
 <a href="https://apps.apple.com/us/developer/nizami-tagiyev/id1580667722"><img alt="Custom badge" src="https://img.shields.io/badge/App%20Store-black?style=for-the-badge&logo=app-store"></a>
+<a href="https://www.instagram.com/hustla_la_vista/"><img alt="Custom badge" src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram"></a>
 </p>
 
 <h2 align="leading">Stats</h2>

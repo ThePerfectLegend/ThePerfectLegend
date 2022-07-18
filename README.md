@@ -7,6 +7,7 @@
 <p align="leading">
 <img alt="Custom badge" src="https://img.shields.io/badge/Swift-black?style=for-the-badge&logo=swift">
 <img alt="Custom badge" src="https://img.shields.io/badge/Swiftui-black?style=for-the-badge&logo=swift&logoColor=blue">
+<img alt="Custom badge" src="https://img.shields.io/badge/Combine-black?style=for-the-badge&logo=swift&logoColor=purple">
 <img alt="Custom badge" src="https://img.shields.io/badge/xcode-black?style=for-the-badge&logo=xcode">
 <img alt="Custom badge" src="https://img.shields.io/badge/App%20Store%20Connect-black?style=for-the-badge&logo=app-store">
 <img alt="Custom badge" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git">

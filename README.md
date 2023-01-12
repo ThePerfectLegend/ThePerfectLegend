@@ -32,8 +32,6 @@
 
 ![CodeWars stats](https://www.codewars.com/users/The_Perfect_Legend/badges/large)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThePerfectLegend&count_private=true&show_icons=true&theme=algolia&hide_title=true&include_all_commits=true)](https://github.com/ThePerfectLegend/github-readme-stats)
-
 <p align="leading"> <img src="https://komarev.com/ghpvc/?username=ThePerfectLegend&style=for-the-badge&label=Profile%20views&=flat&color=blueviolet" /> </p>
 
 <!--
@@ -61,4 +59,6 @@ Here are some ideas to get you started:
 <img alt="Custom badge" src="https://img.shields.io/badge/CloudKit-black?style=for-the-badge&logo=framework">
 <img alt="Custom badge" src="https://img.shields.io/badge/UserDefaults-black?style=for-the-badge&logo=framework">
 </p>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThePerfectLegend&count_private=true&show_icons=true&theme=algolia&hide_title=true&include_all_commits=true)](https://github.com/ThePerfectLegend/github-readme-stats)
 -->

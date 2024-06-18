@@ -1,7 +1,13 @@
 <h3 align="center">👋 Hi! I'm Cesare</h3>
-<h4 align="center">Self-Taught iOS Developer </h4>
+<h4 align="center">iOS Developer </h4>
 
-<p align="leading">After 6 years of career in fintech as an analyst and project manager, I decided to try myself in a new role. I designed and developed my first app from the scratch alone and published on App Store. In this process I found my passion in iOS development and fall in love with SwiftUI.</p>
+<p align="leading">I am an iOS developer with over 3 years of experience in mobile application development and more than 8 years in the IT industry. In addition to development, my IT experience includes roles as an analyst and project manager in the fintech and telecom sectors.
+
+I specialize in mobile application development using modern technologies like Swift, SwiftUI, and Combine. I have published three apps on the App Store using SwiftUI, with one leveraging Combine for its network layer and business logic. I thrive in Agile environments, with experience in both Scrum and Kanban methodologies.
+
+With a product-oriented mindset, I can analyze tasks or problems from various perspectives—technical, business, and management. I excel at taking tasks from concept to final implementation, with the ability to formalize business and technical requirements. I am fluent in English.
+
+I am continually enhancing my skills to stay updated with the latest technologies. In the future, I am keen to explore on-device ML. In my free time, I enjoy motorcycling, traveling, yoga, and meditation.</p>
 
 <h2 align="leading">Languages & Tools</h2>
 <p align="leading">
@@ -22,8 +28,6 @@
 <p align="leading">
 <a href="https://www.linkedin.com/in/nizamitagiyev/"><img alt="Custom badge" src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn&logoColor=blue"></a>
 <a href="https://t.me/The_Perfect_Legend"><img alt="Custom badge" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
-<a href="https://apple.co/3EoaaDN"><img alt="Custom badge" src="https://img.shields.io/badge/App%20Store-black?style=for-the-badge&logo=app-store"></a>
-<a href="https://www.instagram.com/hustla_la_vista/"><img alt="Custom badge" src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram"></a>
 </p>
 
 <h2 align="leading">Stats</h2>

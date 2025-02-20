@@ -26,8 +26,6 @@
 
 <a href="https://stackoverflow.com/users/14737138/nizami"><img src="https://stackoverflow.com/users/flair/14737138.png?theme=dark" width="208" height="58" alt="profile for Nizami at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Nizami at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-![CodeWars stats](https://www.codewars.com/users/The_Perfect_Legend/badges/large)
-
 <p align="leading"> <img src="https://komarev.com/ghpvc/?username=ThePerfectLegend&style=for-the-badge&label=Profile%20views&=flat&color=blueviolet" /> </p>
 
 <!--

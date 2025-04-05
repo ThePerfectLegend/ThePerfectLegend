@@ -1,4 +1,4 @@
-<h3 align="leading">👋 Hi! I'm Cesare</h3>
+<h3 align="leading">👋 Hi! I'm Nizami</h3>
 <h4 align="leading">iOS Developer </h4>
 
 <h2 align="leading">Languages & Tools</h2>
